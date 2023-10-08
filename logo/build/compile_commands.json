@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ybwowen/Desktop/source/homework2/logo/build",
+  "command": "/usr/bin/g++   -I/usr/include/eigen3 -isystem /usr/local/include/opencv4  -std=c++14 -g   -o CMakeFiles/logo.dir/main.cpp.o -c /home/ybwowen/Desktop/source/homework2/logo/main.cpp",
+  "file": "/home/ybwowen/Desktop/source/homework2/logo/main.cpp"
+}
+]

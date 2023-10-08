@@ -1,0 +1,3 @@
+/home/ybwowen/Desktop/source/homework2/photograph/build/CMakeFiles/rebuild_cache.dir
+/home/ybwowen/Desktop/source/homework2/photograph/build/CMakeFiles/edit_cache.dir
+/home/ybwowen/Desktop/source/homework2/photograph/build/CMakeFiles/photograph.dir
